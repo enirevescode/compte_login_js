@@ -31,7 +31,7 @@ Pour copier faire un fork bah ... forker comme d'hab.
 
 == Screenshots ==
 
-![screenshot](assets/images/Screenshot_Formulaire_Compte.png "screenshot")
+![screenshot](./assets/images/Screenshot_Formulaire_Compte.png "screenshot")
 
 
 == Changelog ==
